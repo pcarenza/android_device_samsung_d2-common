@@ -17,6 +17,8 @@
 
 USE_CAMERA_STUB := true
 
+BOARD_VENDOR:= samsung
+
 # inherit from common msm8960
 -include device/samsung/msm8960-common/BoardConfigCommon.mk
 
